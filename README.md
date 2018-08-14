@@ -146,4 +146,7 @@ Simply calling `.sort` has the desired effect. It implicity executes the code we
 * [Watch sorting happen](https://www.youtube.com/watch?v=kPRA0W1kECg)
 * [Compare different sorting algorithms](http://www.sorting-algorithms.com/)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sorting-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sorting-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Sorting</p>
